@@ -1,7 +1,7 @@
 /venv/
-/mainpage/migrations/
-/config/__pyache__/
-/mainpage/__pyache__/
+/acompany/migrations/
+/acompany/__pyache__/
+/acompany/__pyache__/
 /.idea/
 /workspace.xml
 /shelf/
